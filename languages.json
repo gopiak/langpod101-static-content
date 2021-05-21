@@ -4,31 +4,36 @@
             "langName": "French",
             "id": "french",
             "resources": 20,
-            "langPic": ""
+            "langPic": "https://raw.githubusercontent.com/webdevgopi/langpod101-static-content/master/langs/french/france-32967.svg",
+            "status": "completed"
         },
         {
             "langName": "Spanish",
             "id": "spanish",
             "resources": 20,
-            "langPic": ""
+            "langPic": "https://raw.githubusercontent.com/webdevgopi/langpod101-static-content/master/langs/spanish/spain-33105.svg",
+            "status": "in-progress"
         },
         {
             "langName": "German",
             "id": "german",
             "resources": 20,
-            "langPic": ""
+            "langPic": "https://raw.githubusercontent.com/webdevgopi/langpod101-static-content/master/langs/german/germany-32989.svg",
+            "status": "in-progress"
         },
         {
             "langName": "Russian",
             "id": "russain",
             "resources": 20,
-            "langPic": ""
+            "langPic": "https://raw.githubusercontent.com/webdevgopi/langpod101-static-content/master/langs/russian/russia-33064.svg",
+            "status": "in-progress"
         },
         {
             "langName": "English",
             "id": "english",
             "resources": 20,
-            "langPic": ""
+            "langPic": "https://raw.githubusercontent.com/webdevgopi/langpod101-static-content/master/langs/english/united-33137.svg",
+            "status": "in-progress"
         }
     ]
 }
