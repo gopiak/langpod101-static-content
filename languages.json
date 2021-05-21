@@ -1,0 +1,34 @@
+{
+    "langs": [
+        {
+            "langName": "French",
+            "id": "french",
+            "resources": 20,
+            "langPic": ""
+        },
+        {
+            "langName": "Spanish",
+            "id": "spanish",
+            "resources": 20,
+            "langPic": ""
+        },
+        {
+            "langName": "German",
+            "id": "german",
+            "resources": 20,
+            "langPic": ""
+        },
+        {
+            "langName": "Russian",
+            "id": "russain",
+            "resources": 20,
+            "langPic": ""
+        },
+        {
+            "langName": "English",
+            "id": "english",
+            "resources": 20,
+            "langPic": ""
+        }
+    ]
+}
