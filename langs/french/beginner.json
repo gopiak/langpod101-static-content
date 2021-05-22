@@ -1,78 +1,62 @@
 {
-    "totalTutorials":12,
-    "lessons":[
+    "videos": [
         {
-            "lesson":"Absolute Beginner Questions Answered by Candice",
-            "description":"Candice answers your most commonly asked questions in an easy-to-understand format.",
-            "totalLectures":25,
-            "duration":"1hr 24min",
-            "type":"mp4/video"
-        }, {
-            "lesson":"Can Do French for Absolute Beginners",
-            "description":"Learn how to 'do' various tasks in French. A practical course.",
-            "totalLectures":50,
-            "duration":"2hr 34min",
-            "type":"mp4/video"
-        }, {
-            "lesson":"Can Give Your Contact Information",
-            "description":"In this pathway, you will learn how to give your contact information.",
-            "totalLectures":5,
-            "duration":"44min",
-            "type":"mp4/video"
-        }, {
-            "lesson":"Can Introduce Yourself",
-            "description":"In this pathway, you will learn how to introduce yourself.",
-            "totalLectures":17,
-            "duration":"1hr 24min",
-            "type":"mp4/video"
-        }, {
-            "lesson":"Can Talk About Your Family",
-            "description":"In this pathway, you will learn how to talk about your family.",
-            "totalLectures":10,
-            "duration":"37min",
-            "type":"mp4/video"
-        }, {
-            "lesson":"Conversational Phrases",
-            "description":"Learn common words and phrases you'll need in conversations",
-            "totalLectures":35,
-            "duration":"38min",
-            "type":"mp4/video"
-        }, {
-            "lesson":"French Conversations with Animation",
-            "description":"Get a taste of real French conversation with these short animations.",
-            "totalLectures":5,
-            "duration":"5min",
-            "type":"mp4/video"
-        }, {
-            "lesson":"Introduction to French",
-            "description":"5 lessons, 30 minutes. Your quick-start guide to the absolute basics of French.",
-            "totalLectures":5,
-            "duration":"30min",
-            "type":"mp4/video"
-        }, {
-            "lesson":"Learn French in Three Minutes",
-            "description":"Isabelle will teach you must-know French phrases, step-by-step.",
-            "totalLectures":25,
-            "duration":"1hr 27min",
-            "type":"mp4/video"
-        }, {
-            "lesson":"Prototype Video Lessons for Absolute Beginners",
-            "description":"Want to get access to never-before-seen, experimental language lessons?.",
-            "totalLectures":6,
-            "duration":"22min",
-            "type":"mp4/video"
-        }, {
-            "lesson":"Ultimate French Pronunciation Guide",
-            "description":"By focusing on the sounds which don't exist in English, you'll master pronunciation fast!",
-            "totalLectures":10,
-            "duration":"48min",
-            "type":"mp4/video"
-        }, {
-            "lesson":"Ultimate Video Getting Started",
-            "description":"Get up and running with the basics of French in this all-video learning path!",
-            "totalLectures":50,
-            "duration":"3hr 38min",
-            "type":"mp4/video"
+            "id": "f-beginner_001",
+            "lesson": "Absolute Beginner French for Every Day",
+            "description": "In this fast-paced and fun series you'll learn the most popular French phrases.",
+            "totalLectures": "79",
+            "type": "mp4/video"
+        },
+        {
+            "id": "f-beginner_002",
+            "lesson": "Best of Lya for Beginners",
+            "description": "Are you a Lya fan? Here are her best video lessons.",
+            "totalLectures": "10",
+            "type": "mp4/video"
+        },
+        {
+            "id": "f-beginner_003",
+            "lesson": "French Grammar Made Easy",
+            "description": "We'll give you the key to mastering beginner-level rules.",
+            "totalLectures": "17",
+            "type": "mp4/video"
+        },
+        {
+            "id": "f-beginner_004",
+            "lesson": "Learn French: The Top 10 Superstitions and Beliefs",
+            "description": "Lidia explains some of the most well-known French superstitions and beliefs.",
+            "totalLectures": "5",
+            "type": "mp4/video"
+        },
+        {
+            "id": "f-beginner_005",
+            "lesson": "Quick & Easy French Review for Beginners",
+            "description": "You may have forgotten some of these words and phrases. Brush up now!",
+            "totalLectures": "4",
+            "type": "mp4/video"
+        },
+        {
+            "id": "f-beginner_006",
+            "lesson": "Reading Comprehension for Absolute Beginners",
+            "description": "Try your hand at reading real French in context.",
+            "totalLectures": "10",
+            "type": "mp4/video"
+        },
+        {
+            "id": "f-beginner_007",
+            "lesson": "The 800 Core Words and Phrases",
+            "description": "Learn the 800 most common words and phrases with this video series.",
+            "totalLectures": "10",
+            "type": "mp4/video"
+        },
+        {
+            "id": "f-beginner_008",
+            "lesson": "Words of the Week with Lya for Beginners",
+            "description": "These fun, bite-sized lessons will get you speaking French in no time!",
+            "totalLectures": "25",
+            "type": "mp4/video"
         }
-    ]
+    ],
+    "totalTutorials": 8,
+    "level": "beginner"
 }
