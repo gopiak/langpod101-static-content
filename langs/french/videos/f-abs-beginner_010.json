@@ -1,0 +1,47 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "videoName": "How To Say \"Happy New Year\" in 34 Languages",
+            "description": "Learn how to say \"Happy New Year\" in 34 languages",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 2,
+            "videoName": "3 Ways to Say Thank You in French",
+            "description": "Learn the three ways to say “thank you�? in French",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 3,
+            "videoName": "How Do People Celebrate Christmas in France?",
+            "description": "Learn how people celebrate Christmas in France",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 4,
+            "videoName": "Three Ways to Say \"Bye\" in French",
+            "description": "Learn three common parting expressions",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 5,
+            "videoName": "How to Celebrate New Year's Day in France",
+            "description": "Learn how people celebrate New Year's Day in France",
+            "videoURL": "",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 6,
+            "videoName": "Can You Pronounce Those French Words?",
+            "description": "Learn about French pronunciation with this fun video",
+            "videoURL": "",
+            "duration": "5 Minutes"
+        }
+    ],
+    "totalLectures": 6
+}

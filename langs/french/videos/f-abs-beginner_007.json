@@ -1,0 +1,40 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "videoName": "A Museum Visit",
+            "description": "Learn to ask what something is",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 2,
+            "videoName": "What Do You Do?",
+            "description": "Learn how to ask someone about what they do for a living and how to respond with your chosen profession",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 3,
+            "videoName": "At the Movie Theater",
+            "description": "Learn how to say the very important phrase, \"I do not understand\"",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 4,
+            "videoName": "Where Do You Live in France?",
+            "description": "Learn how to ask where someone lives",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 5,
+            "videoName": "Location, Location, Location!",
+            "description": "Learn how to ask where someone is from",
+            "videoURL": "",
+            "duration": "1 Minute"
+        }
+    ],
+    "totalLectures": 5
+}

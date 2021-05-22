@@ -1,0 +1,243 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "videoName": "Learn About Occupations in French - Dialogue",
+            "description": "Learn how to talk about your occupation",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 2,
+            "videoName": "Learn About Occupations in French - Vocabulary",
+            "description": "Learn how to talk about your occupation",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 3,
+            "videoName": "Learn About Occupations in French - Practice",
+            "description": "Learn how to talk about your occupation",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 4,
+            "videoName": "Learn About Occupations in French - Review",
+            "description": "Learn how to talk about your occupation",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 5,
+            "videoName": "Learn About Occupations in French - Cheatsheet",
+            "description": "Master the pattern to talk about your occupation using this Cheatsheet",
+            "videoURL": "",
+            "duration": "Document"
+        },
+        {
+            "id": 6,
+            "videoName": "Conversation About Family Well-being in French - Dialogue",
+            "description": "Learn how to talk about your family well-being",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 7,
+            "videoName": "Conversation About Family Well-being in French - Vocabulary",
+            "description": "Learn how to talk about your family well-being",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 8,
+            "videoName": "Conversation About Family Well-being in French - Practice",
+            "description": "Learn how to talk about your family well-being",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 9,
+            "videoName": "Conversation About Family Well-being in French - Review",
+            "description": "Learn how to talk about your family well-being",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 10,
+            "videoName": "Conversation About Family Well-being in French - Cheatsheet",
+            "description": "Master the pattern to talk about your family well-being using this Cheatsheet",
+            "videoURL": "",
+            "duration": "Document"
+        },
+        {
+            "id": 11,
+            "videoName": "Learn How to Make Complaints in French - Dialogue",
+            "description": "Learn how to make complaints",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 12,
+            "videoName": "Learn How to Make Complaints in French - Vocabulary",
+            "description": "Learn how to make complaints",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 13,
+            "videoName": "Learn How to Make Complaints in French - Practice",
+            "description": "Learn how to make complaints",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 14,
+            "videoName": "Learn How to Make Complaints in French - Review",
+            "description": "Learn how to make complaints",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 15,
+            "videoName": "Learn How to Make Complaints in French - Cheatsheet",
+            "description": "Master the pattern to make complaints using this Cheatsheet",
+            "videoURL": "",
+            "duration": "Document"
+        },
+        {
+            "id": 16,
+            "videoName": "Asking How to Say Something in French - Dialogue",
+            "description": "Learn how to ask how a word is pronounced",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 17,
+            "videoName": "Asking How to Say Something in French - Vocabulary",
+            "description": "Learn how to ask how a word is pronounced",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 18,
+            "videoName": "Asking How to Say Something in French - Practice",
+            "description": "Learn how to ask how a word is pronounced",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 19,
+            "videoName": "Asking How to Say Something in French - Review",
+            "description": "Learn how to ask how a word is pronounced",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 20,
+            "videoName": "Asking How to Say Something in French - Cheatsheet",
+            "description": "Master the pattern to ask how a word is said using this Cheatsheet",
+            "videoURL": "",
+            "duration": "Document"
+        },
+        {
+            "id": 21,
+            "videoName": "Conversation About Numbers in French - Dialogue",
+            "description": "Learn how to talk say numbers",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 22,
+            "videoName": "Conversation About Numbers in French - Vocabulary",
+            "description": "Learn how to talk say numbers",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 23,
+            "videoName": "Conversation About Numbers in French - Practice",
+            "description": "Learn how to talk say numbers",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 24,
+            "videoName": "Conversation About Numbers in French - Review",
+            "description": "Learn how to talk say numbers",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 25,
+            "videoName": "Conversation About Numbers in French - Cheatsheet",
+            "description": "Master numbers using this Cheatsheet",
+            "videoURL": "",
+            "duration": "Document"
+        },
+        {
+            "id": 26,
+            "videoName": "Conversation About Movies in French - Dialogue",
+            "description": "Learn how to talk about your favorite type of movie",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 27,
+            "videoName": "Conversation About Movies in French - Vocabulary",
+            "description": "Learn how to talk about your favorite type of movie",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 28,
+            "videoName": "Conversation About Movies in French - Practice",
+            "description": "Learn how to talk about your favorite type of movie",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 29,
+            "videoName": "Conversation About Movies in French - Review",
+            "description": "Learn how to talk about your favorite type of movie",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 30,
+            "videoName": "Conversation About Movies in French - Cheatsheet",
+            "description": "Master the pattern to talk about your favorite type of movie using this Cheatsheet",
+            "videoURL": "",
+            "duration": "Document"
+        },
+        {
+            "id": 31,
+            "videoName": "Conversation About National Holidays in French - Dialogue",
+            "description": "Learn how to talk about holiday plans",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 32,
+            "videoName": "Conversation About National Holidays in French - Vocabulary",
+            "description": "Learn how to talk about holiday plans",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 33,
+            "videoName": "Conversation About National Holidays in French - Practice",
+            "description": "Learn how to talk about holiday plans",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 34,
+            "videoName": "Conversation About National Holidays in French - Review",
+            "description": "Learn how to talk about holiday plans",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        }
+    ],
+    "totalLectures": 34
+}

@@ -1,0 +1,180 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "videoName": "How to tell a noun's gender",
+            "description": "Learn the answer to the question, \"How can I tell if a noun is masculine or feminine?\"",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L1_010116_fpod101_video.m4v",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 2,
+            "videoName": "What are “False Friends�??",
+            "description": "Learn the answer to the question, \"What are 'false friends'?\"",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L2_011516_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 3,
+            "videoName": "Reflexive pronouns",
+            "description": "Learn the answer to the question, \"What are reflexive pronouns and when do you use them?\"",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L3_012916_fpod101_video.m4v",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 4,
+            "videoName": "Direct and indirect object pronouns",
+            "description": "Learn the answer to the question, \"When do I use direct and indirect object pronouns?\"",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L4_021216_fpod101_video.m4v",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 5,
+            "videoName": "What is the PARTICIPE PASSÉ?",
+            "description": "Learn the answer to the question, 'What is the participe passe and how do you use it?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L5_022616_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 6,
+            "videoName": "Written and spoken French",
+            "description": "Learn the answer to the question, \"What are the differences between written and spoken French?\"",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L6_031116_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 7,
+            "videoName": "Types of questions",
+            "description": "Learn the answer to the question, 'Which question form should I use?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L7_032516_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 8,
+            "videoName": "What does SI mean?",
+            "description": "Learn the answer to the question, 'What does si mean, and how do you use It?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L8_040816_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 9,
+            "videoName": "Using French slang",
+            "description": "Learn the answer to the question, 'What are the most common slang words in French?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L9_042216_fpod101_video.m4v",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 10,
+            "videoName": "Using LE VERLAN",
+            "description": "Learn the answer to the question 'What is le verlan and how do I use it?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L10_050616_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 11,
+            "videoName": "Are the French snobby?",
+            "description": "Learn the answer to the question, 'Are the French really as snobby as they seem?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L11_052016_fpod101_video.m4v",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 12,
+            "videoName": "What is LE MONDE FRANCOPHONE?",
+            "description": "Learn the answer to the question, 'What is Le Monde Francophone?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L12_060316_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 13,
+            "videoName": "Business expressions",
+            "description": "Learn the answer to the question, \"What are some French business expressions?\"",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L13_061716_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 14,
+            "videoName": "What is LA LA�?CITÉ?",
+            "description": "Learn the answer to the question, 'What is La Laïcité?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L14_070116_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 15,
+            "videoName": "How to use Y",
+            "description": "Learn the answer to the question, 'How do you use y and what are some common expressions?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L15_071516_fpod101_video.m4v",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 16,
+            "videoName": "When to use EN?",
+            "description": "Learn the answer to the question, 'When and how do you use en?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L16_072916_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 17,
+            "videoName": "What does DONT mean?",
+            "description": "Learn the answer to the question, 'What does dont mean?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L17_081216_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 18,
+            "videoName": "Using A and DE with verbs",
+            "description": "Learn the answer to the question, 'When do you use Verbe + a and Verbe + de?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L18_082616_fpod101_video.m4v",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 19,
+            "videoName": "J'ADORE CA and JE L'ADORE",
+            "description": "Learn the answer to the question, 'What's the difference between J'adore la and Je l'adore?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L19_090916_fpod101_video.m4v",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 20,
+            "videoName": "Negative French sentences",
+            "description": "Learn the answer to the question, \"What are the different ways to make a negative sentence in French?\"",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L20_092316_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 21,
+            "videoName": "French Idioms",
+            "description": "Learn the answer to the question \"What are some popular French idioms?\"",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L21_100716_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 22,
+            "videoName": "LE PASSÉ COMPOSÉ and L'IMPARFAIT",
+            "description": "Learn the answer to the question 'When should you use le passe, compose, or l'imparfait?'",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L22_102116_fpod101_video.m4v",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 23,
+            "videoName": "Adjectives as nouns",
+            "description": "Learn the answer to the question, \"How do you use adjectives as nouns?\"",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L23_110416_fpod101_video.m4v",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 24,
+            "videoName": "Is time masculine or feminine?",
+            "description": "Learn the answer to the question, \"How do you know if units of time are masculine or feminine?\"",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L24_111816_fpod101_video.m4v",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 25,
+            "videoName": "What is ÇA?",
+            "description": "Learn the answer to common questions",
+            "videoURL": "https://mdn.illops.net/frenchpod101/ABQABC_L25_120216_fpod101_video.m4v",
+            "duration": "2 Minutes"
+        }
+    ],
+    "totalLectures": 25
+}

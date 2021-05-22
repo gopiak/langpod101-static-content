@@ -1,0 +1,78 @@
+{
+    "totalTutorials":12,
+    "lessons":[
+        {
+            "lesson":"Absolute Beginner Questions Answered by Candice",
+            "description":"Candice answers your most commonly asked questions in an easy-to-understand format.",
+            "totalLectures":25,
+            "duration":"1hr 24min",
+            "type":"mp4/video"
+        }, {
+            "lesson":"Can Do French for Absolute Beginners",
+            "description":"Learn how to 'do' various tasks in French. A practical course.",
+            "totalLectures":50,
+            "duration":"2hr 34min",
+            "type":"mp4/video"
+        }, {
+            "lesson":"Can Give Your Contact Information",
+            "description":"In this pathway, you will learn how to give your contact information.",
+            "totalLectures":5,
+            "duration":"44min",
+            "type":"mp4/video"
+        }, {
+            "lesson":"Can Introduce Yourself",
+            "description":"In this pathway, you will learn how to introduce yourself.",
+            "totalLectures":17,
+            "duration":"1hr 24min",
+            "type":"mp4/video"
+        }, {
+            "lesson":"Can Talk About Your Family",
+            "description":"In this pathway, you will learn how to talk about your family.",
+            "totalLectures":10,
+            "duration":"37min",
+            "type":"mp4/video"
+        }, {
+            "lesson":"Conversational Phrases",
+            "description":"Learn common words and phrases you'll need in conversations",
+            "totalLectures":35,
+            "duration":"38min",
+            "type":"mp4/video"
+        }, {
+            "lesson":"French Conversations with Animation",
+            "description":"Get a taste of real French conversation with these short animations.",
+            "totalLectures":5,
+            "duration":"5min",
+            "type":"mp4/video"
+        }, {
+            "lesson":"Introduction to French",
+            "description":"5 lessons, 30 minutes. Your quick-start guide to the absolute basics of French.",
+            "totalLectures":5,
+            "duration":"30min",
+            "type":"mp4/video"
+        }, {
+            "lesson":"Learn French in Three Minutes",
+            "description":"Isabelle will teach you must-know French phrases, step-by-step.",
+            "totalLectures":25,
+            "duration":"1hr 27min",
+            "type":"mp4/video"
+        }, {
+            "lesson":"Prototype Video Lessons for Absolute Beginners",
+            "description":"Want to get access to never-before-seen, experimental language lessons?.",
+            "totalLectures":6,
+            "duration":"22min",
+            "type":"mp4/video"
+        }, {
+            "lesson":"Ultimate French Pronunciation Guide",
+            "description":"By focusing on the sounds which don't exist in English, you'll master pronunciation fast!",
+            "totalLectures":10,
+            "duration":"48min",
+            "type":"mp4/video"
+        }, {
+            "lesson":"Ultimate Video Getting Started",
+            "description":"Get up and running with the basics of French in this all-video learning path!",
+            "totalLectures":50,
+            "duration":"3hr 38min",
+            "type":"mp4/video"
+        }
+    ]
+}

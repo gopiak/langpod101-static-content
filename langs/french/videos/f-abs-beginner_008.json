@@ -1,0 +1,40 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "videoName": "Introduction to French",
+            "description": "Learn how to introduce yourself",
+            "videoURL": "",
+            "duration": "5 Minutes"
+        },
+        {
+            "id": 2,
+            "videoName": "Introduction to French Pronunciation",
+            "description": "Learn a little about French pronunciation",
+            "videoURL": "",
+            "duration": "5 Minutes"
+        },
+        {
+            "id": 3,
+            "videoName": "Introduction to French Grammar",
+            "description": "Learn a little about French grammar",
+            "videoURL": "",
+            "duration": "6 Minutes"
+        },
+        {
+            "id": 4,
+            "videoName": "Introduction to French Writing",
+            "description": "Learn a little about how to write",
+            "videoURL": "",
+            "duration": "6 Minutes"
+        },
+        {
+            "id": 5,
+            "videoName": "Basic Bootcamp",
+            "description": "Learn a French learning boot camp",
+            "videoURL": "",
+            "duration": "6 Minutes"
+        }
+    ],
+    "totalLectures": 5
+}

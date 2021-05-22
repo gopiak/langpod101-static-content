@@ -1,0 +1,180 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "videoName": "Self-Introductions",
+            "description": "Learn how to introduce yourself",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 2,
+            "videoName": "French Manners",
+            "description": "Learn how to say \"thank you\"",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 3,
+            "videoName": "Greetings",
+            "description": "Learn how to use some common French greetings",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 4,
+            "videoName": "Do you speak English?",
+            "description": "Learn how to use the phrase \"Do you speak English?\"",
+            "videoURL": "",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 5,
+            "videoName": "Making Apologies",
+            "description": "Learn how to apologize",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 6,
+            "videoName": "Numbers 1-10",
+            "description": "Learn how to count from 1-10",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 7,
+            "videoName": "Numbers 11-100",
+            "description": "Learn how to count from 11-100",
+            "videoURL": "",
+            "duration": "5 Minutes"
+        },
+        {
+            "id": 8,
+            "videoName": "How Much?",
+            "description": "Learn to ask, \"How much?\"",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 9,
+            "videoName": "Currency",
+            "description": "Learn how to talk about prices",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 10,
+            "videoName": "Making Plans",
+            "description": "Learn how to make plans",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 11,
+            "videoName": "What is Your Nationality?",
+            "description": "Learn how to ask about someone's nationality",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 12,
+            "videoName": "Where Are You?",
+            "description": "Learn how to ask where somebody is",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 13,
+            "videoName": "Talking About Your Age",
+            "description": "Learn how to ask about someone's age",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 14,
+            "videoName": "Talking about Possessions",
+            "description": "Learn how to ask about your possessions",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 15,
+            "videoName": "Going Without in France",
+            "description": "Learn how to say \"not\" and \"don't have\"",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 16,
+            "videoName": "French Adjectives",
+            "description": "Learn how to use French adjectives",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 17,
+            "videoName": "Taking a Holiday",
+            "description": "Learn how to say \"to go\"",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 18,
+            "videoName": "What are you going to do?",
+            "description": "Learn how to use the verb \"to do\"",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 19,
+            "videoName": "Do You Like French Cheese?",
+            "description": "Learn how to use the verbs \"to like\" and \"to love\"",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 20,
+            "videoName": "Taking a Trip with Friends",
+            "description": "Learn how to use the verb \"to come\"",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 21,
+            "videoName": "Asking \"What\" in French",
+            "description": "Learn how to ask \"What?\"",
+            "videoURL": "",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 22,
+            "videoName": "Asking \"Where\" in French",
+            "description": "Learn how to ask \"Where?\"",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 23,
+            "videoName": "Asking \"When\" in French",
+            "description": "Learn how to ask \"When?\"",
+            "videoURL": "",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 24,
+            "videoName": "Asking \"Who\" in French",
+            "description": "Learn how to ask \"Who?\"",
+            "videoURL": "",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 25,
+            "videoName": "Asking \"Why\" in French",
+            "description": "Learn how to ask \"Why?\"",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        }
+    ],
+    "totalLectures": 25
+}

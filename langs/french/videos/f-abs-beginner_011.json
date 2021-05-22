@@ -1,0 +1,75 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "videoName": "Introduction to Perfect French Pronunciation",
+            "description": "Learn an introduction to perfect French pronunciation",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 2,
+            "videoName": "Top 5 French Mistakes to Avoid",
+            "description": "Learn the top five French pronunciation mistakes to avoid",
+            "videoURL": "",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 3,
+            "videoName": "French Vowels, Part 1",
+            "description": "Learn the pronunciation of French vowels",
+            "videoURL": "",
+            "duration": "5 Minutes"
+        },
+        {
+            "id": 4,
+            "videoName": "French Vowels, Part 2",
+            "description": "Learn about the pronunciation of French vowels",
+            "videoURL": "",
+            "duration": "7 Minutes"
+        },
+        {
+            "id": 5,
+            "videoName": "Familiar Consonants, Part 1",
+            "description": "Learn how to pronounce French consonants",
+            "videoURL": "",
+            "duration": "5 Minutes"
+        },
+        {
+            "id": 6,
+            "videoName": "Familiar Consonants, Part 2",
+            "description": "Learn about the pronunciation of French consonants",
+            "videoURL": "",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 7,
+            "videoName": "New Consonants",
+            "description": "Learn the pronunciation of new French consonants",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 8,
+            "videoName": "Accents and Silent and Final Letters",
+            "description": "Learn the pronunciation of French accents and silent and final letters",
+            "videoURL": "",
+            "duration": "5 Minutes"
+        },
+        {
+            "id": 9,
+            "videoName": "Liaisons",
+            "description": "Learn how to use French liaisons",
+            "videoURL": "",
+            "duration": "6 Minutes"
+        },
+        {
+            "id": 10,
+            "videoName": "French Rhythm",
+            "description": "Learn about French rhythm",
+            "videoURL": "",
+            "duration": "4 Minutes"
+        }
+    ],
+    "totalLectures": 10
+}

@@ -1,0 +1,40 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "videoName": "How to Give Your Phone Number - Dialogue",
+            "description": "Learn how to give your phone number in French",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 2,
+            "videoName": "How to Give Your Phone Number - Lesson Focus",
+            "description": "Learn how to give your phone number in French",
+            "videoURL": "",
+            "duration": "7 Minutes"
+        },
+        {
+            "id": 3,
+            "videoName": "How to Give Your Phone Number - Examples and Variation",
+            "description": "Learn how to give your phone number in French",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 4,
+            "videoName": "How to Give Your Phone Number - Review",
+            "description": "Learn how to give your phone number in French",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 5,
+            "videoName": "How to Give Your Phone Number - Practice",
+            "description": "Learn how to give your phone number in French",
+            "videoURL": "",
+            "duration": "4 Minutes"
+        }
+    ],
+    "totalLectures": 5
+}

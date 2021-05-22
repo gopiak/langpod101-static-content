@@ -1,0 +1,75 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "videoName": "How to Talk About Your Parents and Siblings - Dialogue",
+            "description": "Learn how to talk about your parents and siblings",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 2,
+            "videoName": "How to Talk About Your Parents and Siblings - Lesson Focus",
+            "description": "Learn how to talk about your parents and siblings",
+            "videoURL": "",
+            "duration": "6 Minutes"
+        },
+        {
+            "id": 3,
+            "videoName": "How to Talk About Your Parents and Siblings - Examples and Variation",
+            "description": "Learn how to talk about your parents and siblings",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 4,
+            "videoName": "How to Talk About Your Parents and Siblings - Review",
+            "description": "Learn how to talk about your parents and siblings",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 5,
+            "videoName": "How to Talk About Your Parents and Siblings - Practice",
+            "description": "Learn how to talk about your parents and siblings",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 6,
+            "videoName": "How to Talk About Your Spouse and Children - Dialogue",
+            "description": "Learn how to talk about your spouse and children",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 7,
+            "videoName": "How to Talk About Your Spouse and Children - Lesson Focus",
+            "description": "Learn how to talk about your spouse and children",
+            "videoURL": "",
+            "duration": "7 Minutes"
+        },
+        {
+            "id": 8,
+            "videoName": "How to Talk About Your Spouse and Children - Examples and Variation",
+            "description": "Learn how to talk about your spouse and children",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 9,
+            "videoName": "How to Talk About Your Spouse and Children - Review",
+            "description": "Learn how to talk about your spouse and children",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 10,
+            "videoName": "How to Talk About Your Spouse and Children - Practice",
+            "description": "Learn how to talk about your spouse and children",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        }
+    ],
+    "totalLectures": 10
+}

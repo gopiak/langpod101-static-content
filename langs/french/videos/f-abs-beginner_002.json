@@ -1,0 +1,355 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "videoName": "How to Introduce Yourself - Dialogue",
+            "description": "Learn how to introduce yourself in French",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 2,
+            "videoName": "How to Introduce Yourself - Lesson Focus",
+            "description": "Learn how to introduce yourself in French",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 3,
+            "videoName": "How to Introduce Yourself - Examples and Variation",
+            "description": "Learn how to introduce yourself in French",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 4,
+            "videoName": "How to Introduce Yourself - Vocabulary and Review",
+            "description": "Learn how to introduce yourself in French",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 5,
+            "videoName": "How to Introduce Yourself - Practice",
+            "description": "Learn how to introduce yourself in French",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 6,
+            "videoName": "How to Say Where You're From - Dialogue",
+            "description": "Learn how to say where you are from in French",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 7,
+            "videoName": "How to Say Where You're From - Lesson Focus",
+            "description": "Learn how to say where you are from in French",
+            "videoURL": "",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 8,
+            "videoName": "How to Say Where You're From - Examples and Variation",
+            "description": "Learn how to say where you are from in French",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 9,
+            "videoName": "How to Say Where You're From - Vocabulary and Review",
+            "description": "Learn how to say where you are from in French",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 10,
+            "videoName": "How to Say Where You're From - Practice",
+            "description": "Learn how to say where you are from in French",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 11,
+            "videoName": "How to Talk About Your Occupation - Dialogue",
+            "description": "Learn how talk about your occupation in French",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 12,
+            "videoName": "How to Talk About Your Occupation - Lesson Focus",
+            "description": "Learn how talk about your occupation in French",
+            "videoURL": "",
+            "duration": "5 Minutes"
+        },
+        {
+            "id": 13,
+            "videoName": "How to Talk About Your Occupation - Examples and Variation",
+            "description": "Learn how talk about your occupation in French",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 14,
+            "videoName": "How to Talk About Your Occupation - Vocabulary and Review",
+            "description": "Learn how talk about your occupation in French",
+            "videoURL": "",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 15,
+            "videoName": "How to Talk About Your Occupation - Practice",
+            "description": "Learn how talk about your occupation in French",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 16,
+            "videoName": "How to Give Your Phone Number - Dialogue",
+            "description": "Learn how to give your phone number in French",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 17,
+            "videoName": "How to Give Your Phone Number - Lesson Focus",
+            "description": "Learn how to give your phone number in French",
+            "videoURL": "",
+            "duration": "7 Minutes"
+        },
+        {
+            "id": 18,
+            "videoName": "How to Give Your Phone Number - Examples and Variation",
+            "description": "Learn how to give your phone number in French",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 19,
+            "videoName": "How to Give Your Phone Number - Review",
+            "description": "Learn how to give your phone number in French",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 20,
+            "videoName": "How to Give Your Phone Number - Practice",
+            "description": "Learn how to give your phone number in French",
+            "videoURL": "",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 21,
+            "videoName": "How to Talk About Your Parents and Siblings - Dialogue",
+            "description": "Learn how to talk about your parents and siblings",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 22,
+            "videoName": "How to Talk About Your Parents and Siblings - Lesson Focus",
+            "description": "Learn how to talk about your parents and siblings",
+            "videoURL": "",
+            "duration": "6 Minutes"
+        },
+        {
+            "id": 23,
+            "videoName": "How to Talk About Your Parents and Siblings - Examples and Variation",
+            "description": "Learn how to talk about your parents and siblings",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 24,
+            "videoName": "How to Talk About Your Parents and Siblings - Review",
+            "description": "Learn how to talk about your parents and siblings",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 25,
+            "videoName": "How to Talk About Your Parents and Siblings - Practice",
+            "description": "Learn how to talk about your parents and siblings",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 26,
+            "videoName": "How to Talk About Your Spouse and Children - Dialogue",
+            "description": "Learn how to talk about your spouse and children",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 27,
+            "videoName": "How to Talk About Your Spouse and Children - Lesson Focus",
+            "description": "Learn how to talk about your spouse and children",
+            "videoURL": "",
+            "duration": "7 Minutes"
+        },
+        {
+            "id": 28,
+            "videoName": "How to Talk About Your Spouse and Children - Examples and Variation",
+            "description": "Learn how to talk about your spouse and children",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 29,
+            "videoName": "How to Talk About Your Spouse and Children - Review",
+            "description": "Learn how to talk about your spouse and children",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 30,
+            "videoName": "How to Talk About Your Spouse and Children - Practice",
+            "description": "Learn how to talk about your spouse and children",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 31,
+            "videoName": "How to Use Basic Greetings - Dialogue",
+            "description": "Learn how to use basic greetings",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 32,
+            "videoName": "How to Use Basic Greetings - Lesson Focus",
+            "description": "Learn how to use basic greetings",
+            "videoURL": "",
+            "duration": "5 Minutes"
+        },
+        {
+            "id": 33,
+            "videoName": "How to Use Basic Greetings - Examples and Variation",
+            "description": "Learn how to use basic greetings",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 34,
+            "videoName": "How to Use Basic Greetings - Vocabulary and Review",
+            "description": "Learn how to use basic greetings",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 35,
+            "videoName": "How to Use Basic Greetings - Practice",
+            "description": "Learn how to use basic greetings",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 36,
+            "videoName": "How to Use Parting Phrases and Expressions - Dialogue",
+            "description": "Learn how to use parting phrases and expressions",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 37,
+            "videoName": "How to Use Parting Phrases and Expressions - Lesson Focus",
+            "description": "Learn how to use parting phrases and expressions",
+            "videoURL": "",
+            "duration": "4 Minutes"
+        },
+        {
+            "id": 38,
+            "videoName": "How to Use Parting Phrases and Expressions - Examples and Variation",
+            "description": "Learn how to use parting phrases and expressions",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 39,
+            "videoName": "How to Use Parting Phrases and Expressions - Vocabulary and Review",
+            "description": "Learn how to use parting phrases and expressions",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 40,
+            "videoName": "How to Use Parting Phrases and Expressions - Practice",
+            "description": "Learn how to use parting phrases and expressions",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 41,
+            "videoName": "How to Use Essential Social Expressions - Dialogue",
+            "description": "Description",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 42,
+            "videoName": "How to Use Essential Social Expressions - Lesson Focus",
+            "description": "Description",
+            "videoURL": "",
+            "duration": "8 Minutes"
+        },
+        {
+            "id": 43,
+            "videoName": "How to Use Essential Social Expressions - Examples and Variations",
+            "description": "Description",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 44,
+            "videoName": "How to Use Essential Social Expressions - Vocabulary and Review",
+            "description": "Description",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 45,
+            "videoName": "How to Use Essential Social Expressions - Practice",
+            "description": "Description",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 46,
+            "videoName": "How to Ask About Well-Being - Dialogue",
+            "description": "Learn how to ask about well-being",
+            "videoURL": "",
+            "duration": "1 Minute"
+        },
+        {
+            "id": 47,
+            "videoName": "How to Ask About Well-Being - Lesson Focus",
+            "description": "Learn how to ask about well-being",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 48,
+            "videoName": "How to Ask About Well-Being - Examples and Variations",
+            "description": "Learn how to ask about well-being",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        },
+        {
+            "id": 49,
+            "videoName": "How to Ask About Well-Being - Vocabulary and Review",
+            "description": "Learn how to ask about well-being",
+            "videoURL": "",
+            "duration": "3 Minutes"
+        },
+        {
+            "id": 50,
+            "videoName": "How to Ask About Well-Being - Practice",
+            "description": "Learn how to ask about well-being",
+            "videoURL": "",
+            "duration": "2 Minutes"
+        }
+    ],
+    "totalLectures": 50
+}
